@@ -2,4 +2,4 @@
 An animated  Button design built purely using CSS depicting Bulbasaur! 
 
 # Preview
-![Preview of button](https://github.com/HarshJa1n/Bulbasaur-Button/blob/master/u.gif?raw=true)
+![preview-of-button-gif](https://github.com/HarshJa1n/Bulbasaur-Button/blob/master/u.gif?raw=true)
